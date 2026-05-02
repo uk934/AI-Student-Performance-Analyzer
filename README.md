@@ -44,3 +44,4 @@ This project predicts student final marks based on study hours, attendance, and 
 * Add more dataset
 * Improve model accuracy
 * Add login system
+* minor change
